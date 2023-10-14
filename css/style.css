@@ -1,0 +1,115 @@
+.navbar_txt_wrapper{
+	color: #e33a5a !important;
+	font-weight: lighter;
+	font-family: 'Rajdhani', sans-serif;
+}
+.navbar_main_head_txt{
+	font-family: 'Overlock SC', cursive;
+	color: red !important;
+}
+.txt_overlay{
+	height: 100%;
+	width: 100%;
+	color: black;
+	text-align: center;
+	position: absolute;
+	padding-bottom: 200px;
+}
+.carousel-caption_center_wrapper{
+	margin-bottom: 20% !important;
+	text-align: center;
+	vertical-align: middle;
+}
+.carousel_txt_head_wrapper{
+	font-family: 'Rajdhani', sans-serif;
+	color: white;
+	font-weight: bold;
+	font-size: 70px;
+}
+.carousel-caption_center_wrapper_xs{
+	margin-bottom: 10% !important;
+	text-align: center;
+	vertical-align: middle;
+}
+.carousel_txt_head_wrapper_xs{
+	font-family: 'Rajdhani', sans-serif;
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+}
+.carousel-caption_center_wrapper_md{
+	margin-bottom: 15% !important;
+	text-align: center;
+	vertical-align: middle;
+}
+.carousel_txt_head_wrapper_md{
+	font-family: 'Rajdhani', sans-serif;
+	color: white;
+	font-weight: bold;
+	font-size: 37px;
+}
+.carousel-caption_center_wrapper_sm{
+	margin-bottom: 10% !important;
+	text-align: center;
+	vertical-align: middle;
+}
+.carousel_txt_head_wrapper_sm{
+	font-family: 'Rajdhani', sans-serif;
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+}
+.carousel_product_head{
+	color: white;
+	font-family: 'Rajdhani', sans-serif;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.carousel_product_bgimg{
+	background: url(../img/img-2.png);
+}
+.carousel_product_img{
+	padding: 50px 20px;
+}
+.carousel_product_head_prdt{
+	color: #e33a5a;
+	font-family: 'Rajdhani', sans-serif;
+	text-align: center;
+	padding-top: 50px;
+	margin-bottom: 20px;
+	font-size: 40px !important;
+}
+.jum_client_head_clnt{
+	color: #e33a5a;
+	font-family: 'Rajdhani', sans-serif;
+	padding-top: 50px;
+	text-align: center;
+	margin-bottom: 20px;
+	font-size: 40px !important;
+}
+.abt_us_marg{
+	border-left: 2px solid #e33a5a;
+	text-align: center;
+}
+.abt_us_txt_wrapper{
+	color: black;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 35px;
+	vertical-align: middle;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.icon_txt_wrapper{
+	margin-bottom: 50px;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	justify-content: all;
+}
+.cu-btnpad-wrapper{
+		padding-left: 80px;
+		padding-right: 80px;
+		margin-bottom: 50px;
+		background-color: #e33a5a;
+	}
